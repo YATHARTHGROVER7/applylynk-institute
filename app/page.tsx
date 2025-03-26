@@ -63,7 +63,7 @@ export default function Home() {
                     <div className="card mt-4">
                         <div className="card-body p-4">
                             <div className="text-center">
-                            <img src="../../assets/images/logo.png" alt="" height="45" className="mb-3" />
+                            <img src="../images/logo.webp" alt="" height="45" className="mb-3" />
                                 <h3 className="text-primary">Welcome Back !</h3>
                                 <p className="text-muted">Sign in to continue to Uomox.</p>
                             </div>

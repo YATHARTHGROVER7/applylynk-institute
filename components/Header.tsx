@@ -43,25 +43,25 @@ const Header = () => {
             <div className="layout-width">
                 <div className="navbar-header">
                     <div className="d-flex">
-                        {/* <div className="navbar-brand-box horizontal-logo">
+                        <div className="navbar-brand-box horizontal-logo">
                             <a href="/" className="logo logo-dark">
                                 <span className="logo-sm">
-                                    <img src={logo} alt="" height="22" />
+                                    <img src='../images/logo.webp' alt="" height="22" />
                                 </span>
                                 <span className="logo-lg">
-                                    <img src={logo} alt="" height="37" />
+                                <img src='../images/logo.webp' alt="" height="22" />
                                 </span>
                             </a>
 
                             <a href="/" className="logo logo-light">
                                 <span className="logo-sm">
-                                    <img src={logo} alt="" height="22" />
+                                <img src='../images/logo.webp' alt="" height="22" />
                                 </span>
                                 <span className="logo-lg">
-                                    <img src={logo} alt="" height="37" />
+                                <img src='../images/logo.webp' alt="" height="22" />
                                 </span>
                             </a>
-                        </div> */}
+                        </div>
                     </div>
                     <div className="d-flex align-items-center">
                         <div className="dropdown ms-sm-3 header-item topbar-user" ref={dropdownRef}>

@@ -26,7 +26,7 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang="en" data-layout="horizontal" data-layout-style="" data-layout-position="fixed" data-topbar="light">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <LayoutWrapper>{children}</LayoutWrapper>
       </body>

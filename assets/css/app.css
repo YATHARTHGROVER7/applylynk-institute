@@ -334,7 +334,7 @@ File: Main Css File
 }
 @media (min-width: 1024.1px) {
   [data-layout=horizontal] .page-content {
-    margin-top: 70px;
+    /* margin-top: 70px; */
   }
 }
 @media (max-width: 1024.1px) {
@@ -472,7 +472,7 @@ File: Main Css File
 }
 .app-content .content {
   padding: 0 15px 10px 15px;
-  margin-top: 70px;
+  /* margin-top: 70px; */
 }
 
 .main-content {
@@ -1328,7 +1328,7 @@ File: Main Css File
   padding: 0 calc(1.5rem * 0.5);
   -webkit-box-shadow: 0 2px 4px rgba(15, 34, 58, 0.12);
           box-shadow: 0 2px 4px rgba(15, 34, 58, 0.12);
-  margin-top: 70px;
+  /* margin-top: 70px; */
   position: fixed;
   right: 0;
   left: 0;
